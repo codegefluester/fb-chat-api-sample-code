@@ -212,7 +212,7 @@
     function _main() {
       print "Test platform connect for XMPP<br>";
       $app_id='506606119387951';
-      $app_secret='0d9bf5ec27ee075176e610aa319b510d';
+      $app_secret='app_secret';
       $my_url = "http://fbchat.hoodere.com/";
       $uid = '100000406542029';
       if($_COOKIE['access_token']){
